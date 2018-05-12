@@ -20,3 +20,6 @@ Note that if you use these functions or scripts you must not change the default 
 
 ## RigidBodyTools
 These functions are used for simplify rigid body transformation in MATLAB. Most of these functions are based on Peter Corke's Robotics Toolbox. 
+
+## PlotTools
+A very simple way to plot your x,y,z data in the MATLAB figure.
